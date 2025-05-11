@@ -1,2 +1,2 @@
-# Uni_things
-Repositório para trabalhos da universidade / Repository for university projects
+# PYTHON_FILES
+Repositório para trabalhos em python / Repository for python projects
